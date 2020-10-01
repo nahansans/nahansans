@@ -1,5 +1,12 @@
-### Hi there 👋
+Tech Enthusiast , Web Developer, and React Native Developer.
 
+# Naufal Hanif
+
+Hi, I'm Naufal Hanif 👨 (he/him). I live in Central Java, Indonesia. 🙌 I'm a Web Developer with PHP and Laravel Framework ,React Native Developer, Bootstrap & React JS as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
+
+## Github Performance Overall
+
+![github stats](https://github-readme-stats.vercel.app/api?username=nahansans&show_icons=true)
 <!--
 **nahansans/nahansans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
