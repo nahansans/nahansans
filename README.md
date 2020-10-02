@@ -1,4 +1,5 @@
 Tech Enthusiast , Web Developer, and React Native Developer.
+[![Visits](https://gpvc.arturio.dev/hiskiapp)](https://github.com/hiskiapp)
 
 # Naufal Hanif
 
