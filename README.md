@@ -8,9 +8,11 @@ Hi, I'm Naufal Hanif 👨 (he/him). I live in Central Java, Indonesia. 🙌 I'm 
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nahansans&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=nahansans&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahansans&layout=compact)](https://github.com/mahansans)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nahansans)](https://github.com/nahansans)
 <!--
 **nahansans/nahansans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
