@@ -1,7 +1,5 @@
 Tech Enthusiast , Web Developer, and React Native Developer.
 
-[![Visits](https://gpvc.arturio.dev/nahansans)](https://github.com/nahansans)
-
 # Naufal Hanif
 
 Hi, I'm Naufal Hanif 👨 (he/him). I live in Central Java, Indonesia. 🙌 I'm a React Native Developer & Web Developer with PHP and Laravel Framework as Backend, Bootstrap/Vue Js as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
